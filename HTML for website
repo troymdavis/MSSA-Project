@@ -1,17 +1,15 @@
 <HTML> 
   <Body> 
+  <header>
+  About Us
+  </header>
     <P>
-    This is the begining of the website!
-<<<<<<< HEAD
-    guess what
-    I'm awesome ! 
+    This is the beginning of the website! 
     <\p> 
    </Body>
-
-=======
-    <\p> 
-   </Body>
->>>>>>> e2a3cab77db43606d1a88d184b2960a54ec1c3c8
+   <Footer>
+   Nice for what - change ///
+   </Footer>
 </HTML>
     
  
