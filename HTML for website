@@ -2,11 +2,16 @@
   <Body> 
     <P>
     This is the begining of the website!
+<<<<<<< HEAD
     guess what
     I'm awesome ! 
     <\p> 
    </Body>
 
+=======
+    <\p> 
+   </Body>
+>>>>>>> e2a3cab77db43606d1a88d184b2960a54ec1c3c8
 </HTML>
     
  
